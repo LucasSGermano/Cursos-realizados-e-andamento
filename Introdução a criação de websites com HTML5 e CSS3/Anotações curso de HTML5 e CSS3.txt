@@ -1,0 +1,32 @@
+Anotações
+
+HTML1 - 1991
+HTML2 - 1995
+HTML3 - 1997
+HTML4 - 1997
+HTML5 - 2014
+
+
+Estrutura básica
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+
+
+Semântica!
+
+Ao invés de encher de <div> usar outros elementos: 
+<section> - seção da página, podem haver vários section
+<header> - normalmente cabeçalho mas pode ser usado dentro de uma <section>
+<article> - conteúdo independente e relevante
+<aside> - 
+<footer> - rodapé da página ou de parte da página
